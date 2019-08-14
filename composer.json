@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Vinagento_Vpager",
+    "type": "magento-module",
+    "license": "GPL",
+    "homepage": "",
+    "description": "Ajax powered pagination and layered navigation for your store",
+    "authors": [
+    {
+        "name": "Vinagento",
+        "email": "vinagento@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
